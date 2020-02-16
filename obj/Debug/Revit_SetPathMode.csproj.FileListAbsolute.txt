@@ -1,0 +1,8 @@
+C:\Users\Valhalla\source\repos\Revit_SetPathMode\bin\Debug\Revit_SetPathMode.dll
+C:\Users\Valhalla\source\repos\Revit_SetPathMode\bin\Debug\Revit_SetPathMode.pdb
+C:\Users\Valhalla\source\repos\Revit_SetPathMode\obj\Debug\Revit_SetPathMode.csprojAssemblyReference.cache
+C:\Users\Valhalla\source\repos\Revit_SetPathMode\obj\Debug\Revit_SetPathMode.Form1.resources
+C:\Users\Valhalla\source\repos\Revit_SetPathMode\obj\Debug\Revit_SetPathMode.csproj.GenerateResource.cache
+C:\Users\Valhalla\source\repos\Revit_SetPathMode\obj\Debug\Revit_SetPathMode.csproj.CoreCompileInputs.cache
+C:\Users\Valhalla\source\repos\Revit_SetPathMode\obj\Debug\Revit_SetPathMode.dll
+C:\Users\Valhalla\source\repos\Revit_SetPathMode\obj\Debug\Revit_SetPathMode.pdb
